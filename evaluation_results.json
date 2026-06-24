@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 1.0,
+  "finetuned_accuracy": 0.7812,
+  "improvement": -0.2188,
+  "test_set_size": 32,
+  "label_map": {
+    "logistical_guide": 0,
+    "destination_take": 1,
+    "emotional_vent": 2
+  },
+  "model": "distilbert-base-uncased"
+}
