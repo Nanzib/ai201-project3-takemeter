@@ -1,3 +1,5 @@
+Video Demo Link: https://drive.google.com/file/d/1jkVgptaXtmBJu8ve-Dsd_Y8_64GKc6DJ/view?usp=sharing
+
 # TakeMeter: Automated Text Archetype Classifier for r/solotravel
 
 TakeMeter is a custom natural language processing pipeline designed to classify community discourse within the r/solotravel subreddit. By distinguishing between objective logistical support, subjective reviews, and raw emotional vulnerability, this tool helps community moderators automatically tag content, route vulnerable users to support networks, and filter high-value travel data at scale.
